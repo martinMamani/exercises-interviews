@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/martinMamani/exercises-interviews/issues"
   },
-  "homepage": "https://github.com/martinMamani/exercises-interviews#readme"
+  "homepage": "https://github.com/martinMamani/exercises-interviews#readme",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
 }
